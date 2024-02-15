@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-haptic-feedback-demo",
+    "slug": "react-native-haptic-feedback-demo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-haptic-feedback-demo"
+}
